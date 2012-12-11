@@ -72,3 +72,17 @@ fi
 %{_datadir}/pear/File/*.php
 %{_datadir}/pear/packages/File_Iterator.xml
 
+
+
+%changelog
+* Fri Dec 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.3.0-2mdv2012.0
++ Revision: 741977
+- fix major breakage by careless packager
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.3.0-1
++ Revision: 730867
+- import php-pear-File_Iterator
+
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.3.0-1mdv2010.2
+- initial Mandriva package
