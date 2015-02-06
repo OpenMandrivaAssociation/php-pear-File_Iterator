@@ -3,7 +3,7 @@
 Summary:	FilterIterator implementation that filters files based on a list of suffixes
 Name:		php-pear-%{upstream_name}
 Version:	1.3.0
-Release:	4
+Release:	5
 License:	BSD
 Group:		Development/PHP
 URL:		http://www.phpunit.de/
