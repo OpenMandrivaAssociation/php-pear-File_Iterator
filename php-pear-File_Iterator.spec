@@ -6,7 +6,7 @@ Version:	1.3.0
 Release:	5
 License:	BSD
 Group:		Development/PHP
-URL:		http://www.phpunit.de/
+URL:		https://www.phpunit.de/
 Source0:	http://pear.phpunit.de/get/File_Iterator-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
